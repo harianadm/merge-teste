@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "getDefaultValue",
+    "pageId": "Semoventes",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Semoventes_getDefaultValue",
+  "deleted": false,
+  "gitSyncId": "6620198c897a1c105cb9afb5_662148e2897a1c105cb9b1be"
+}

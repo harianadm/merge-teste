@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "UpLoadImageEsquerda",
+    "pageId": "Semoventes",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "data",
+        "value": "{}"
+      },
+      {
+        "name": "url",
+        "value": "\"\""
+      },
+      {
+        "name": "id",
+        "value": "0"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Semoventes_UpLoadImageEsquerda",
+  "deleted": false,
+  "gitSyncId": "6620198c897a1c105cb9afb5_6621492c897a1c105cb9b1de"
+}

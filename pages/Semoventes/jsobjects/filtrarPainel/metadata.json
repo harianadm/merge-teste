@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "filtrarPainel",
+    "pageId": "Semoventes",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Semoventes_filtrarPainel",
+  "deleted": false,
+  "gitSyncId": "6620198c897a1c105cb9afb5_662148db897a1c105cb9b1ba"
+}
