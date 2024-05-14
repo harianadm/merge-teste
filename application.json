@@ -2,6 +2,10 @@
   "pages": [
     {
       "id": "Page1",
+      "isDefault": false
+    },
+    {
+      "id": "Page3",
       "isDefault": true
     }
   ],
@@ -15,7 +19,11 @@
   },
   "color": "#F4FFDE",
   "icon": "line-chart",
-  "unpublishedCustomJSLibs": [],
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "service_http://localhost/appsmith-bac/dist/service.umd.js"
+    }
+  ],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
