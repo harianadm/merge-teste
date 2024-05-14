@@ -5,14 +5,6 @@
       "isDefault": true
     },
     {
-      "id": "Treinamento",
-      "isDefault": false
-    },
-    {
-      "id": "Estoque",
-      "isDefault": false
-    },
-    {
       "id": "Usuários",
       "isDefault": false
     },
