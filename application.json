@@ -4,14 +4,6 @@
       "id": "Inicio",
       "isDefault": true
     },
-    {  
-      "id": "medicamentos certo",
-      "isDefault": false
-    },
-    {
-      "id": "excluir",
-      "isDefault": false
-    },
     {
       "id": "Treinamento",
       "isDefault": false
