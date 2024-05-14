@@ -1,11 +1,11 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "medicamentos certo",
       "isDefault": false
     },
     {
-      "id": "Page3",
+      "id": "excluir",
       "isDefault": true
     }
   ],
@@ -22,6 +22,12 @@
   "unpublishedCustomJSLibs": [
     {
       "uidString": "service_http://localhost/appsmith-bac/dist/service.umd.js"
+    },
+    {
+      "uidString": "jspdf_https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
+    },
+    {
+      "uidString": "jsonpath_https://cdn.jsdelivr.net/npm/jsonpath@1.1.1/jsonpath.min.js"
     }
   ],
   "publishedCustomJSLibs": [],
